@@ -4,6 +4,4 @@
 
 Just some examples of image classifiers I've been playing around with.
 
-Kaggle Cat/Dog dataset in HDF5 format
-
-https://dynafa.com/static/resources/dataset.hdf5
+Using Kaggle Cat/Dog dataset in HDF5 format.
